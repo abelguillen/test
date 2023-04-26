@@ -13,7 +13,7 @@ public class Main {
 		estudiantesArr[4] = new Estudiante("Ariel", 9);
 		estudiantesArr[5] = new Estudiante("Cristian", 5);
 		estudiantesArr[6] = new Estudiante("Martin", 8);
-		estudiantesArr[7] = new Estudiante("Hernan", 4);
+		estudiantesArr[7] = new Estudiante("Matias", 4);
 		
 		double promedio = calcularPromedio(estudiantesArr);
 		
