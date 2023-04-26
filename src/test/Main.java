@@ -22,6 +22,7 @@ public class Main {
 		mostrarAlumnosMayorPromedio(notaMayorArr);
 		
 		System.out.println("Hola Mundo!! Estamos aprendiendo GITHUB");
+		System.out.println("Hola Mundo!!");
 		
 	}
 	
